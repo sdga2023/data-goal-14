@@ -2,3 +2,4 @@
 .DS_Store
 
 inputs/.ipynb_checkpoints/
+.Rproj.user
